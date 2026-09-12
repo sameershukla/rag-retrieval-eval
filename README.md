@@ -86,7 +86,7 @@ Retrieved: ['doc-2', 'doc-3', 'doc-4']
 
 Recall@K considers the entire top-K result set. It does not measure the exact position of a relevant document.
 
-## Why does 1.00 not mean â€œranked firstâ€?
+## Why does 1.00 not mean ranked first
 
 The word **recall** refers to coverage, not ranking position.
 
